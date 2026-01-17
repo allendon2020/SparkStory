@@ -1,0 +1,7 @@
+{
+  "name": "Copy of StorySpark: Magic Tales for Kids",
+  "description": "An interactive AI-powered storybook creator where children can generate custom stories, see beautiful AI illustrations, hear them read aloud, and chat with a magical story buddy. Prototype! For Fun ONLY!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
